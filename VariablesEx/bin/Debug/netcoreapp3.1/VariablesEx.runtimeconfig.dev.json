@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\stayl\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\stayl\\.nuget\\packages"
+    ]
+  }
+}
